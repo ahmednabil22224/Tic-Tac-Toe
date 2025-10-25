@@ -100,6 +100,6 @@ images/lighthouse-report.png
 
 ## ⚡ Lighthouse Report
 
-![Lighthouse Report](./src/images/lighthouse-report.png)
+![Lighthouse Report](./src/images/lighthouse-report.jpg)
 
 ---
