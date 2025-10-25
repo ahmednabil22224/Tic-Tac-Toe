@@ -62,7 +62,7 @@ my-app/
 
 ## 📸 Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./src/images/screenshot.png)
 
 ## 🚀 How to Run Locally
 
@@ -100,6 +100,6 @@ images/lighthouse-report.png
 
 ## ⚡ Lighthouse Report
 
-![Lighthouse Report](./images/lighthouse-report.png)
+![Lighthouse Report](./src/images/lighthouse-report.png)
 
 ---
