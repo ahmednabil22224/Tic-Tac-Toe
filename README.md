@@ -38,19 +38,20 @@ It includes game logic for turns, winner detection, draw states, and persistent 
 
 ```
 
-my-app/
+Tic-Tac-Toe App/
 │
+├── public/
+│   └── index.html
 ├── src/
-├── App.js # Main game logic & layout
-├── FullSquares.js # Renders the full grid & arrow animation
-├── Square.js # Individual square component
-├── Winner.js # Handles score and winner display
-├── App.css # Tailwind styling & custom animations
-├── index.js # React app entry point
-│
-├── images/
-│   ├── screenshot.png
-│   └── lighthouse.png
+│   ├── App.js # Main game logic & layout
+│   ├── FullSquares.js # Renders the full grid & arrow animation
+│   ├── Square.js # Individual square component
+│   ├── Winner.js # Handles score and winner display
+│   ├── App.css # Tailwind styling & custom animations
+│   ├── index.js # React app entry point
+│   └── images/
+│        ├── screenshot.png
+│        └── lighthouse.png
 │
 ├── README.md
 └── package.json
@@ -91,8 +92,8 @@ http://localhost:3000
 
 | Metric            | Score |
 | ----------------- | ----- |
-| ⚡ Performance    | 96%  |
-| ♿ Accessibility  | 100%   |
+| ⚡ Performance    | 96%   |
+| ♿ Accessibility  | 100%  |
 | 🛡️ Best Practices | 100%  |
 | 🔍 SEO            | 100%  |
 
